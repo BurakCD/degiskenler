@@ -27,7 +27,7 @@ public class TurDonusumu {
         //Sayıdan stringe dönüşüm sayıları yazı tipine dönüştürme
         //bunun için { String kelime1 = String.valueOf(sayi);} şeklinde dönüşümler yapılır
 
-        int sayi = 56;
+        int sayi = 88;
         String yazi1 = String.valueOf(sayi); //bu önerilir, String referans bir tiptir metodsal çalışması performans olarak daha iyi
         String yazi2 = Integer.toString(sayi);
         String yazi3 = sayi + "";
